@@ -20,7 +20,7 @@ FDIR="$HOME/.local/share/fonts"
 install_fonts() {
 	echo -e "\n[*] Installing fonts..."
 	if [[ -d "$FDIR" ]]; then
-		cp -rf $DIR/fonts/* "$FDIR"
+		cp -rf $HOME/dotfiles/fonts/* "$FDIR"
 	else
 		mkdir -p "$FDIR"
 		cp -rf $DIR/fonts/* "$FDIR"
@@ -28,3 +28,6 @@ install_fonts() {
 }
 
 install_fonts
+
+# Enable SDDM
+sudo systemctl enable sddm
