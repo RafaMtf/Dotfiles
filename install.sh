@@ -36,3 +36,6 @@ sudo systemctl enable sddm
 # Set wallpaper
 cp $HOME/dotfiles/wallpaper.jpg ~/Photos/
 feh --bg-fill ~/Photos/wallpaper.jpg
+
+# Pywal setting
+wal -i ~/Photos/wallpaper.jpg
