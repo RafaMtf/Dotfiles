@@ -21,6 +21,6 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 xsetroot -cursor_name left_ptr
-nitrogen --restore
+feh --bg-fill ~/Photos/wallpaper.jpg
 bash ~/.config/polybar/launch.sh --forest
 picom &
