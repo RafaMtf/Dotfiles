@@ -1,0 +1,14 @@
+[2022-07-19 08:21:52.001] [sharedprocess] [info] Starting worker process with pid 1663 (type: fileWatcher, window: 1).
+[2022-07-19 08:22:27.159] [sharedprocess] [info] Worker process with pid 1663 terminated normally (type: fileWatcher, window: 1).
+[2022-07-19 08:22:28.047] [sharedprocess] [info] Starting worker process with pid 1708 (type: fileWatcher, window: 1).
+[2022-07-19 08:47:15.299] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 1708 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+[2022-07-19 08:47:15.308] [sharedprocess] [info] Starting worker process with pid 2869 (type: fileWatcher, window: 1).
+[2022-07-19 09:01:25.790] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-07-19 09:01:26.003] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-07-19 09:01:29.298] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/rafa/.config/Code - OSS/CachedExtensionVSIXs/eamodio.gitlens-12.1.2
+[2022-07-19 09:01:30.175] [sharedprocess] [info] Extracted extension to /home/rafa/.vscode-oss/extensions/.a5208e7c-006e-48fa-9453-d9a85be4c412: eamodio.gitlens
+[2022-07-19 09:01:30.205] [sharedprocess] [info] Renamed to /home/rafa/.vscode-oss/extensions/eamodio.gitlens-12.1.2
+[2022-07-19 09:01:30.210] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-07-19 09:01:30.217] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-07-19 09:04:01.924] [sharedprocess] [info] Worker process with pid 2869 terminated normally (type: fileWatcher, window: 1).
+[2022-07-19 09:04:04.816] [sharedprocess] [info] Starting worker process with pid 4091 (type: fileWatcher, window: 1).

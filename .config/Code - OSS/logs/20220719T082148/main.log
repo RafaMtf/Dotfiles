@@ -1,0 +1,10 @@
+[2022-07-19 08:21:48.671] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-19 08:21:50.627] [main] [info] Starting extension host with pid 1626 (fork() took 25 ms).
+[2022-07-19 08:22:27.154] [main] [info] Extension host with pid 1626 exited with code: 0, signal: null.
+[2022-07-19 08:22:28.044] [main] [info] Starting extension host with pid 1709 (fork() took 9 ms).
+[2022-07-19 08:26:21.007] [main] [info] Extension host with pid 1709 exited with code: 0, signal: null.
+[2022-07-19 08:26:21.016] [main] [info] Starting extension host with pid 1818 (fork() took 6 ms).
+[2022-07-19 08:26:38.564] [main] [info] Extension host with pid 1818 exited with code: 0, signal: null.
+[2022-07-19 08:26:38.606] [main] [info] Starting extension host with pid 1851 (fork() took 8 ms).
+[2022-07-19 09:04:01.918] [main] [info] Extension host with pid 1851 exited with code: 0, signal: null.
+[2022-07-19 09:04:03.260] [main] [info] Starting extension host with pid 4039 (fork() took 10 ms).

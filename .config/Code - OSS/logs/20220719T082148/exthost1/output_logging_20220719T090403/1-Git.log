@@ -1,0 +1,59 @@
+[2022-07-19T12:04:03.737Z] Log level: Info
+[2022-07-19T12:04:03.738Z] [info] Validating found git in: git
+[2022-07-19T12:04:03.749Z] [info] Using git 2.37.1 from git
+[2022-07-19T12:04:03.765Z] > git rev-parse --show-toplevel [4ms]
+[2022-07-19T12:04:03.765Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.787Z] > git rev-parse --show-toplevel [13ms]
+[2022-07-19T12:04:03.787Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.793Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-19T12:04:03.793Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.804Z] > git rev-parse --show-toplevel [6ms]
+[2022-07-19T12:04:03.804Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.811Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-19T12:04:03.811Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.818Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-19T12:04:03.818Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.823Z] > git rev-parse --show-toplevel [0ms]
+[2022-07-19T12:04:03.823Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.830Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-19T12:04:03.830Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.835Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-19T12:04:03.835Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:03.841Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-19T12:04:03.849Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-07-19T12:04:03.855Z] [info] Open repository: /home/rafa/Git
+[2022-07-19T12:04:03.868Z] > git status -z -uall [6ms]
+[2022-07-19T12:04:03.874Z] > git rev-parse --show-toplevel [7ms]
+[2022-07-19T12:04:03.881Z] > git symbolic-ref --short HEAD [8ms]
+[2022-07-19T12:04:03.887Z] > git rev-parse --git-dir --git-common-dir [7ms]
+[2022-07-19T12:04:03.889Z] [info] Open repository: /home/rafa/polybar-themes
+[2022-07-19T12:04:03.895Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+[2022-07-19T12:04:03.909Z] > git remote --verbose [2ms]
+[2022-07-19T12:04:03.909Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-07-19T12:04:03.918Z] > git config --get commit.template [1ms]
+[2022-07-19T12:04:03.925Z] > git status -z -uall [2ms]
+[2022-07-19T12:04:03.931Z] > git status -z -uall [37ms]
+[2022-07-19T12:04:03.936Z] > git symbolic-ref --short HEAD [6ms]
+[2022-07-19T12:04:03.941Z] > git symbolic-ref --short HEAD [6ms]
+[2022-07-19T12:04:03.946Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+[2022-07-19T12:04:03.958Z] > git remote --verbose [3ms]
+[2022-07-19T12:04:03.958Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-07-19T12:04:03.959Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+[2022-07-19T12:04:03.974Z] > git remote --verbose [6ms]
+[2022-07-19T12:04:03.974Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-07-19T12:04:03.985Z] > git config --get commit.template [12ms]
+[2022-07-19T12:04:03.986Z] > git config --get commit.template [2ms]
+[2022-07-19T12:04:04.046Z] > git status -z -uall [54ms]
+[2022-07-19T12:04:04.051Z] > git symbolic-ref --short HEAD [1ms]
+[2022-07-19T12:04:04.056Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-07-19T12:04:04.068Z] > git remote --verbose [3ms]
+[2022-07-19T12:04:04.068Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-07-19T12:04:04.078Z] > git config --get commit.template [1ms]
+[2022-07-19T12:04:04.387Z] > git check-ignore -v -z --stdin [1ms]
+[2022-07-19T12:04:05.571Z] > git check-ignore -v -z --stdin [8ms]
+[2022-07-19T12:04:05.572Z] > git check-ignore -v -z --stdin [3ms]
+[2022-07-19T12:04:05.621Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-19T12:04:05.621Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-19T12:04:12.889Z] > git show --textconv :install.sh [6ms]
+[2022-07-19T12:04:12.890Z] > git ls-files --stage -- /home/rafa/Git/install.sh [2ms]
+[2022-07-19T12:05:07.726Z] > git check-ignore -v -z --stdin [0ms]

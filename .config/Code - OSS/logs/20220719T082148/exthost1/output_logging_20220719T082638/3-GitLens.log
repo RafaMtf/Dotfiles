@@ -1,0 +1,2 @@
+[2022-07-19 12:01:32.330] [GIT  ] [/home/rafa] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 12 ms
+

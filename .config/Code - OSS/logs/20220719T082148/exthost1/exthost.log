@@ -1,0 +1,76 @@
+[2022-07-19 08:21:51.767] [exthost] [info] Extension host with pid 1626 started
+[2022-07-19 08:21:51.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-19 08:21:51.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-19 08:21:51.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-19 08:21:51.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-19 08:21:51.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-19 08:21:52.044] [exthost] [info] Eager extensions activated
+[2022-07-19 08:21:52.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:21:52.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:22:27.140] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-19 08:22:27.145] [exthost] [info] Extension host with pid 1626 exiting with code 0
+[2022-07-19 08:22:28.431] [exthost] [info] Extension host with pid 1709 started
+[2022-07-19 08:22:28.431] [exthost] [info] Skipping acquiring lock for /home/rafa/.config/Code - OSS/User/workspaceStorage/d3d24f26143cfe236e228341584d7a79.
+[2022-07-19 08:22:28.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-19 08:22:28.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-19 08:22:28.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-19 08:22:28.504] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-19 08:22:28.511] [exthost] [info] Eager extensions activated
+[2022-07-19 08:22:28.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:22:28.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:22:29.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-19 08:25:40.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-07-19 08:26:20.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:20.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:20.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:20.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:20.987] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-19 08:26:20.992] [exthost] [info] Extension host with pid 1709 exiting with code 0
+[2022-07-19 08:26:21.327] [exthost] [info] Extension host with pid 1818 started
+[2022-07-19 08:26:21.327] [exthost] [info] Skipping acquiring lock for /home/rafa/.config/Code - OSS/User/workspaceStorage/f27439a4dd58e64120cfd59159eb1102.
+[2022-07-19 08:26:21.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-07-19 08:26:21.362] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:21.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:21.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:21.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:21.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-19 08:26:21.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-19 08:26:21.484] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-19 08:26:21.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-19 08:26:21.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-19 08:26:21.556] [exthost] [info] Eager extensions activated
+[2022-07-19 08:26:21.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:26:21.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:26:38.543] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-07-19 08:26:38.551] [exthost] [info] Extension host with pid 1818 exiting with code 0
+[2022-07-19 08:26:38.909] [exthost] [info] Extension host with pid 1851 started
+[2022-07-19 08:26:38.909] [exthost] [info] Skipping acquiring lock for /home/rafa/.config/Code - OSS/User/workspaceStorage/f27439a4dd58e64120cfd59159eb1102.
+[2022-07-19 08:26:38.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-07-19 08:26:38.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:38.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:38.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:38.963] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-19 08:26:38.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-19 08:26:38.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-19 08:26:38.974] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-19 08:26:38.997] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-19 08:26:39.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-19 08:26:39.057] [exthost] [info] Eager extensions activated
+[2022-07-19 08:26:39.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:26:39.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 08:26:47.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-19 08:33:36.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-07-19 09:01:32.087] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 09:01:32.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-19 09:04:01.876] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-19 09:04:01.902] [exthost] [info] Extension host with pid 1851 exiting with code 0
+[2022-07-19 09:04:03.642] [exthost] [info] Extension host with pid 4039 started
+[2022-07-19 09:04:03.642] [exthost] [info] Skipping acquiring lock for /home/rafa/.config/Code - OSS/User/workspaceStorage/f27439a4dd58e64120cfd59159eb1102.
+[2022-07-19 09:04:03.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-19 09:04:03.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-19 09:04:03.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-19 09:04:03.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-19 09:04:03.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-19 09:04:03.763] [exthost] [info] Eager extensions activated
+[2022-07-19 09:04:03.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-19 09:04:03.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
