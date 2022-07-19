@@ -6,6 +6,7 @@ sudo pacman -Syy --needed --noconfirm acl adobe-source-code-pro-fonts adwaita-ic
 # Make directories
 mkdir ~/Downloads/
 mkdir ~/Desktop/
+mkdir ~/Photos
 mkdir ~/.cache/
 mkdir ~/.local/
 
@@ -31,3 +32,7 @@ install_fonts
 
 # Enable SDDM
 sudo systemctl enable sddm
+
+# Set wallpaper
+cp $HOME/dotfiles/wallpaper.jpg ~/Photos/
+nitrogen ~/Photos/wallpaper.jpg
